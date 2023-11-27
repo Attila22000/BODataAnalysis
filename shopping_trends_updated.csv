@@ -13,7 +13,7 @@ Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Si
 12,30,Male,Shorts,Clothing,68,Hawaii,S,Olive,Winter,4.9,Yes,Store Pickup,Yes,Yes,10,Bank Transfer,Fortnightly
 13,61,Male,Coat,Outerwear,72,Delaware,M,Gold,Winter,4.5,Yes,Express,Yes,Yes,37,Venmo,Fortnightly
 14,65,Male,Dress,Clothing,51,New Hampshire,M,Violet,Spring,4.7,Yes,Express,Yes,Yes,31,PayPal,Weekly
-15,64,Male,Coat,Outerwear,53,New York,L,Teal,Winter,4.7,Yes,Free Shipping,Yes,Yes,34,Debit Card,Weekly
+15,565,Male,Coat,Outerwear,53,New York,L,Teal,Winter,4.7,Yes,Free Shipping,Yes,Yes,34,Debit Card,Weekly
 16,64,Male,Skirt,Clothing,81,Rhode Island,M,Teal,Winter,2.8,Yes,Store Pickup,Yes,Yes,8,PayPal,Monthly
 17,25,Male,Sunglasses,Accessories,36,Alabama,S,Gray,Spring,4.1,Yes,Next Day Air,Yes,Yes,44,Debit Card,Bi-Weekly
 18,53,Male,Dress,Clothing,38,Mississippi,XL,Lavender,Winter,4.7,Yes,2-Day Shipping,Yes,Yes,36,Venmo,Quarterly
@@ -239,7 +239,7 @@ Customer ID,Age,Gender,Item Purchased,Category,Purchase Amount (USD),Location,Si
 238,50,Male,Dress,Clothing,90,Iowa,M,Beige,Summer,3,Yes,Store Pickup,Yes,Yes,36,Debit Card,Fortnightly
 239,64,Male,Skirt,Clothing,34,Ohio,M,Peach,Fall,4.2,Yes,Free Shipping,Yes,Yes,5,Cash,Annually
 240,49,Male,Pants,Clothing,51,Vermont,L,Yellow,Summer,2.9,Yes,Express,Yes,Yes,47,Credit Card,Bi-Weekly
-241,47,Male,Sweater,Clothing,45,Montana,XL,Turquoise,Winter,3.5,Yes,Free Shipping,Yes,Yes,29,Bank Transfer,Fortnightly
+241,135,Male,Sweater,Clothing,45,Montana,XL,Turquoise,Winter,3.5,Yes,Free Shipping,Yes,Yes,29,Bank Transfer,Fortnightly
 242,36,Male,Hoodie,Clothing,88,Delaware,M,Peach,Winter,4.1,Yes,Free Shipping,Yes,Yes,43,Venmo,Bi-Weekly
 243,55,Male,Coat,Outerwear,85,New York,L,Gray,Summer,4.3,Yes,Store Pickup,Yes,Yes,40,Debit Card,Every 3 Months
 244,25,Male,Jewelry,Accessories,100,Kentucky,M,Olive,Winter,2.8,Yes,2-Day Shipping,Yes,Yes,4,Debit Card,Monthly
